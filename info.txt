@@ -2,3 +2,6 @@ This is a critical message I am going to amend into previous commit along this f
 commit #2 during squash activity
 commit #3 during squash activity
 commit #4 during squash activity
+commit #5 added to check fetch command
+
+commit #6 added to check fetch command
