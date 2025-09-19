@@ -1,0 +1,4 @@
+This is a critical message I am going to amend into previous commit along this file
+commit #2 during squash activity
+commit #3 during squash activity
+commit #4 during squash activity
