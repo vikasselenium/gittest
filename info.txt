@@ -1,0 +1,1 @@
+This is a critical message I am going to amend into previous commit along this file
